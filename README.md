@@ -1,5 +1,6 @@
 # SyntheticSecretSound
 Synthetic Secret Sound -Synthetic Pure Implosion Sound as described by Dan Winter + Plus-AM Tone Generator v0.1
+<br><br>
 v0.14 
   +stereo, the plugin for two channel track (you need creat new stereo track before you start plugin generator)<br>
   +carier phase angle<br>

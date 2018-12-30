@@ -11,6 +11,7 @@ Now we can share presets that can be reasonable best to choose without any hidde
 <br>
 How do you add plug-ins to Audacity? https://wiki.audacityteam.org/wiki/Plug-ins#How_do_you_add_plug-ins_to_Audacity.3F <br><br>more info:<br>
 https://www.reddit.com/r/schumannresonance/<br>
+https://www.reddit.com/r/holofractal/<br>
 https://www.heartmath.org/research/global-coherence/
 <br>https://en.wikipedia.org/wiki/Schumann_resonances<br>
 https://www.cs.cmu.edu/~rbd/doc/nyquist/<br>
